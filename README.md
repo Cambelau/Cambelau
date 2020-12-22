@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, Hello it's Matt
+#### I am a student in engineering school and I am passionate about programming !
+![I am a student in engineering school and I am passionate about programming !](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Cambelau/Cambelau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I deposit here all my projects and my work in computer science.
 
-Here are some ideas to get you started:
+Skills: C / C++ / HTML / CSS / PHP / JAVA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
