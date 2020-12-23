@@ -12,9 +12,11 @@ Skills: C / C++ / HTML / CSS / PHP / JAVA
 
 ## Examples of work 
 <img src="" width="256" />
-
+##
 :star: <a src="https://github.com/Cambelau/C-Snake" >C Snake </a>
+##
 :star: 
+##
 :star: 
 :star::star: 
 :star::star::star: 
