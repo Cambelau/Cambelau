@@ -12,4 +12,4 @@ Skills: C / C++ / HTML / CSS / PHP / JAVA
 
 ## Examples of work 
 <img src="" width="256" />
-:star: Hey
+:star::star: 
