@@ -13,17 +13,17 @@ Skills: C / C++ / HTML / CSS / PHP / JAVA
 ## Examples of work 
 <img src="" width="256" />
 
-:star: <a href="https://github.com/Cambelau/C-Snake" >C Snake </a>
+:star: <a href="https://github.com/Cambelau/C-Snake" >C Snake</a>
 
-:star: <a href="https://github.com/Cambelau/C-Snake" >C Snake </a>
+:star: <a href="https://github.com/Cambelau/C-TicTacToe-Game" >C TicTacToe</a>
 
-:star: <a href="https://github.com/Cambelau/C-Snake" >C Snake </a>
+:star: <a href="https://github.com/Cambelau/Java-TicTacToe-" >Java TicTacToe</a>
 
-:star::star: <a href="https://github.com/Cambelau/C-Snake" >C Snake </a>
+:star::star: <a href="https://github.com/Cambelau/C-Annuaire-Astrologique" >C Annuaire Astrologique</a>
 
-:star::star::star: <a href="https://github.com/Cambelau/C-Snake" >C Snake </a>
+:star::star: <a href="https://github.com/Cambelau/Java-IceCream-shop" >Java IceCreamShop</a>
 
-:star::star::star: <a href="https://github.com/Cambelau/C-Snake" >C Snake </a>
+:star::star: <a href="https://github.com/Cambelau/PHP-Inventory" >PHP Inventory</a>
 
 :star: <a href="https://github.com/Cambelau/Arduino-Day-Night" >Arduino Day&Night</a>
 
