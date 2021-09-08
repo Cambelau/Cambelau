@@ -17,9 +17,7 @@ Skills: C / C++ / HTML / CSS / PHP / JAVA
 <a href="https://github.com/Cambelau/C-ShootThemAll" ><img src="https://github.com/Cambelau/Cambelau/blob/main/R-TYPE_2020-12-23_01-25-41.png" width="256" /></a>
 <a href="https://github.com/Cambelau/Java-Uno" ><img src="https://github.com/Cambelau/Cambelau/blob/main/java_2020-12-23_01-29-50.png" width="256" /></a>
 
-:star: <a href="https://github.com/Cambelau/C-Snake" >C Snake</a>
 
-:star: <a href="https://github.com/Cambelau/C-TicTacToe-Game" >C TicTacToe</a>
 
 :star: <a href="https://github.com/Cambelau/Java-TicTacToe-" >Java TicTacToe</a>
 
