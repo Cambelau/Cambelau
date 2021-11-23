@@ -2,7 +2,7 @@
 #### I am a student in engineering school and I am passionate about programming !
 I deposit here all my projects and my work in computer science. For the moment I'm discovering all the programming languages. Next year I'll start to specialize. I hope to find interesting internships to better target my personal interests. 
 
-Skills: C / C++ / HTML / CSS / PHP / JAVA
+Skills: C / C++ / HTML / CSS / PHP / Java / Js / NodeJs / React / Synfony / Express / Docker / Kubernetes
 
 - 🔭 I’m currently working on 4 years in engineering school at l'ECE Paris 
 - ⚡ Fun fact: In high school I hated computer science 
