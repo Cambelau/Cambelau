@@ -1,6 +1,3 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cambelau.Cambelau)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact)
-
 ### Hello, it's Matthieu Sajot
 #### I am a M1 student in engineering school   
 
@@ -27,3 +24,7 @@ Project :
     dl
 
 Go check my linkedin : [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/matthieu-sajot-371063193/)  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact)
+    
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cambelau.Cambelau)
