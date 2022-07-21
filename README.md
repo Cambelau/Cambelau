@@ -27,10 +27,12 @@ Project :
     londres
     ml
     dl
-<p align="center">    
+    
+<div style="text-align:center">
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Cambelau.Cambelau)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact)  
-</p>
+</div>
+
   
 <h2> About Me⚡:</h2>
 I'm a  Student living in Paris, IL. Outside Tech, I love adventure, enjoy music and meet people. 
