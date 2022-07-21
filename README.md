@@ -29,8 +29,8 @@ Project :
     dl
     
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Cambelau.Cambelau"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact"><br>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Cambelau.Cambelau">
 </p>
   
 <h2> About Me⚡:</h2>
