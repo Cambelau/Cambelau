@@ -1,10 +1,9 @@
 <h2>Hey! 👋</h2>
-#### M2 student in engineering school   
-
+  
 I'm Matthieu Sajot! 
 - <i>Currently:</i> M2 Student at ECE Paris, Computer Science and Bid Data. 
 - <i>Previously:</i> Intern Software Developer at SFR Business.*
-    
+      
 Project :
 - c
   siam
