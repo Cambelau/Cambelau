@@ -5,7 +5,7 @@ I'm Matthieu Sajot!
 - <i>Previously:</i> Intern Software Developer at SFR Business.*
       
       
-<h2>💻 I'm Currently workng on</h2> 
+<h2>💻 Check out some of my work</h2> 
 
   
 Project :
