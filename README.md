@@ -1,8 +1,10 @@
-### Hello, it's Matthieu Sajot
-#### I am a M1 student in engineering school   
+<h2>Hey! 👋</h2>
+#### M2 student in engineering school   
 
-I deposit here all my projects and my work in computer science.
-
+I'm Matthieu Sajot! 
+- <i>Currently:</i> M2 Student at ECE Paris, Computer Science and Bid Data. 
+- <i>Previously:</i> Intern Software Developer at SFR Business.*
+    
 Project :
 - c
   siam
