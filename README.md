@@ -2,7 +2,7 @@
   
 I'm Matthieu Sajot! 
 - <i>Currently:</i> M2 Student at ECE Paris, Computer Science and Bid Data. 
-- <i>Previously:</i> Intern Software Developer at SFR Business.*
+- <i>Previously:</i> Intern Software Developer at SFR Business.
       
       
 <h2>💻 Check out some of my work</h2> 
@@ -34,7 +34,7 @@ Project :
 </p>
   
 <h2> About Me⚡:</h2>
-I'm a  Student living in Paris, IL. Outside Tech, I love adventure, enjoy music and meet people. 
+I'm a Student living in Paris. Outside Tech, I love scoutism, enjoy music and meet people. 
 
 
 <h2>📫 How to reach me:</h2>
