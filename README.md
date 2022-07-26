@@ -26,24 +26,6 @@ I'm Matthieu Sajot!
 * C++ oop graph  
 * Java uno rentable    
 * C#  
-
-| [Data Science](https://github.com/Cambelau/DataScienceCambelau) | [Python](https://github.com/Cambelau/PythonCambelau) |
-| :--------------- |:---------------:| 
-| * Face recognition | * Wikipedia Scrapper |  
-| * Detection contract/Bill clustering no supervised | * Twitter Scrapper |
-| * Maths,djisktra | |
-
-
-
-#### [Web](https://github.com/Cambelau/WebCambelau)
-* React App  
-* Php Website  
-* No framework website cart  
-#### [Other](https://github.com/Cambelau/OtherCambelau)
-* C siam shootthemall chain  
-* C++ oop graph  
-* Java uno rentable    
-* C#  
   
 
 <p align="center">
