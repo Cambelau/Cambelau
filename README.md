@@ -10,18 +10,18 @@ I'm Matthieu Sajot!
   
 ### Project :
     
-::: tip #### [Data Science](https://github.com/Cambelau/DataScienceCambelau)
+#### [Data Science](https://github.com/Cambelau/DataScienceCambelau)
 * Face recognition  
 * Detection contract/Bill clustering no supervised  
 * Maths,djisktra  
-::: tip #### [Python](https://github.com/Cambelau/PythonCambelau)
+#### [Python](https://github.com/Cambelau/PythonCambelau)
 * Wikipedia Scrapper  
 * Twitter Scrapper  
-::: tip #### [Web](https://github.com/Cambelau/WebCambelau)
+#### [Web](https://github.com/Cambelau/WebCambelau)
 * React App  
 * Php Website  
 * No framework website cart  
-::: tip #### [Other](https://github.com/Cambelau/OtherCambelau)
+#### [Other](https://github.com/Cambelau/OtherCambelau)
 * C siam shootthemall chain  
 * C++ oop graph  
 * Java uno rentable    
