@@ -11,22 +11,22 @@ I'm Matthieu Sajot!
 ###Project :
     
 #### [Data Science](https://github.com/Cambelau/DataScienceCambelau)  
-⋅⋅* Face recognition  
-⋅⋅* Detection contract/Bill clustering no supervised  
-⋅⋅* Maths,djisktra  
+ Face recognition  
+* Detection contract/Bill clustering no supervised  
+* Maths,djisktra  
 #### [Python](https://github.com/Cambelau/PythonCambelau)  
-⋅⋅* Wikipedia Scrapper  
-⋅⋅* Twitter Scrapper  
-⋅⋅*   
+* Wikipedia Scrapper  
+* Twitter Scrapper  
+*   
 #### [Web](https://github.com/Cambelau/WebCambelau)  
-⋅⋅* React App  
-⋅⋅* Php Website  
-⋅⋅* No framework website cart  
+* React App  
+* Php Website  
+* No framework website cart  
 #### [Other](https://github.com/Cambelau/OtherCambelau)  
-⋅⋅* C siam shootthemall chain  
-⋅⋅* C++ oop graph  
-⋅⋅* Java uno rentable    
-..* C#  
+* C siam shootthemall chain  
+* C++ oop graph  
+* Java uno rentable    
+* C#  
       
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact"><br>
