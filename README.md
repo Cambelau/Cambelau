@@ -8,25 +8,25 @@ I'm Matthieu Sajot!
 <h2>💻 Check out some of my work</h2> 
 
   
-Project :
-- c
-  siam
-  shoot'm'all
-- c++
-  graph theory
-  oop
-- java
-  uno game
-  gestion app
-- c#
-  gestion app
-- web
-    php
-    react
-- ml
-    londres
-    ml
-    dl
+###Project :
+  
+####[Data Science](https://github.com/Cambelau/DataScienceCambelau)
+⋅⋅* Face recognition
+⋅⋅* Detection contract/Bill clustering no supervised
+⋅⋅* Maths,djisktra
+####[Python](https://github.com/Cambelau/PythonCambelau)
+⋅⋅* Wikipedia Scrapper
+⋅⋅* Twitter Scrapper
+⋅⋅* 
+####[Web](https://github.com/Cambelau/WebCambelau)
+⋅⋅* React App
+⋅⋅* Php Website
+⋅⋅* No framework website cart
+####[Other](https://github.com/Cambelau/OtherCambelau)
+⋅⋅* C siam shootthemall chain
+⋅⋅* C++ oop graph
+⋅⋅* Java uno rentable
+..* C#
     
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cambelau&layout=compact"><br>
