@@ -12,8 +12,8 @@ I'm Matthieu Sajot!
     
 #### [Data Science](https://github.com/Cambelau/DataScienceCambelau)
 * Face recognition  
-* Detection contract/Bill clustering no supervised  
-* Maths,djisktra  
+* Detection contract/Bill clustering 
+* Maths
 #### [Python](https://github.com/Cambelau/PythonCambelau)
 * Wikipedia Scrapper  
 * Twitter Scrapper  
