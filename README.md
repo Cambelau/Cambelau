@@ -23,10 +23,7 @@ I'm Matthieu Sajot!
 * Auction Website
 * BagAway
 #### [Other](https://github.com/Cambelau/OtherCambelau)
-* C siam shootthemall chain  
-* C++ oop graph  
-* Java uno rentable    
-* C#  
+* C C++ C# Java
   
 
 <p align="center">
