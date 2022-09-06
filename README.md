@@ -18,9 +18,10 @@ I'm Matthieu Sajot!
 * Wikipedia Scrapper  
 * Twitter Scrapper  
 #### [Web](https://github.com/Cambelau/WebCambelau)
-* React App  
-* Php Website  
-* No framework website cart  
+* JS React Chatbot
+* PHP Site Inventaire
+* Auction Website
+* BagAway
 #### [Other](https://github.com/Cambelau/OtherCambelau)
 * C siam shootthemall chain  
 * C++ oop graph  
